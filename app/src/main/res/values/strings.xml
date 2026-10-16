@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Notes</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">โน๊ตของฉัน</string>
+    <string name="btn_add_note">+ เพิ่มโน๊ต</string>
+    <string name="btn_users">ผู้ใช้</string>
+    <string name="msg_empty">ยังไม่มีโน๊ต กด "+ เพิ่มโน๊ต" เพื่อเริ่มต้น</string>
+
+    <!-- AddNoteActivity -->
+    <string name="add_note_title">เพิ่มโน๊ต</string>
+    <string name="label_owner">เจ้าของโน๊ต</string>
+    <string name="btn_new_user">+ เพิ่มผู้ใช้ใหม่</string>
+    <string name="hint_title">หัวข้อโน๊ต</string>
+    <string name="rb_text">ข้อความ (TextNote)</string>
+    <string name="rb_checklist">เช็คลิสต์ (CheckListNote)</string>
+    <string name="hint_content">เนื้อหาโน๊ต</string>
+    <string name="hint_item">รายการเช็คลิสต์</string>
+    <string name="btn_add_item">เพิ่มรายการ</string>
+    <string name="btn_save">บันทึก</string>
+    <string name="btn_cancel">ยกเลิก</string>
+
+    <!-- AddUserActivity -->
+    <string name="add_user_title">จัดการผู้ใช้</string>
+    <string name="hint_user_id">รหัสผู้ใช้ (userId)</string>
+    <string name="hint_name">ชื่อผู้ใช้</string>
+    <string name="hint_address">ที่อยู่</string>
+    <string name="btn_save_user">บันทึกผู้ใช้</string>
+    <string name="btn_back">กลับ</string>
+    <string name="label_user_list">รายชื่อผู้ใช้ทั้งหมด</string>
+
+    <!-- Messages -->
+    <string name="msg_fill_all">กรุณากรอกข้อมูลให้ครบ</string>
+    <string name="msg_user_duplicate">รหัสผู้ใช้นี้มีอยู่แล้ว</string>
+    <string name="msg_user_saved">บันทึกผู้ใช้แล้ว</string>
+    <string name="msg_no_user">ยังไม่มีผู้ใช้ กรุณาเพิ่มผู้ใช้ก่อน</string>
+    <string name="msg_title_required">กรุณากรอกหัวข้อ</string>
+    <string name="msg_content_required">กรุณากรอกเนื้อหา</string>
+    <string name="msg_item_required">กรุณาเพิ่มอย่างน้อย 1 รายการ</string>
+    <string name="msg_note_saved">บันทึกโน๊ตแล้ว</string>
+</resources>
